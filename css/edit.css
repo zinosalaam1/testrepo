@@ -1,0 +1,22 @@
+.sicba{
+    text-decoration: underline;
+}
+.newview{
+    color: black;
+    border: 1px solid black;
+    border-radius: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: antiquewhite;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+.newview:hover{
+    background-color: aqua;
+    transition: 250ms;
+}
+.ndnewview{
+    text-decoration: none;
+}
